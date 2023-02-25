@@ -166,6 +166,6 @@ const calcularMedia = () => {
   );
 };
 
-// verificaMaiorValor();
-// verificaMenorValor();
+verificaMaiorValor();
+verificaMenorValor();
 calcularMedia();
